@@ -3,7 +3,8 @@
   It is written in C++, and can easily be modified to work with other platforms.  
   It can buffer any fixed size object (ints, floats, structs, etc...).
   Created by Pavel Pervushkin, March, 2024.
-  Released into the public domain.
+  https://pervu.github.io/
+  MIT License
 */
 
 #ifndef FIFOBuf_H
